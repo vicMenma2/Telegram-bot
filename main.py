@@ -19,12 +19,12 @@ import subprocess
 import requests
 
 #Enter your bot credentials
-api_id = 123456
-api_hash = 'your-api-hash'
-bot_token = 'your-bot-token'
+api_id = 20976201
+api_hash = 'd6befb976707702c6047a621aed8540f'
+bot_token = '6817597964:AAGoaUZcbqK_RMfIPrEVDugIk-cbUIKTZ64'
 
 #YouTube Data API v3 key
-api_key = 'your-yt-api-key'
+api_key = 'AIzaSyAR4t3iajcOgFXY9DVr-8doXRFowOxywxM'
 
 #Spotify API credentials
 client_id = 'your-client=id'
